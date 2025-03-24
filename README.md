@@ -124,3 +124,7 @@ cd ~/src/vue-yak-stak
 # import the link
 npm link eslint-plugin-vue-pug
 ```
+
+## What's next?
+
+### Configure and run the workflows
