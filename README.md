@@ -1,4 +1,4 @@
-# vuw-yak-stak
+# vue-yak-stak
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -57,4 +57,49 @@ npm run test:e2e -- --debug
 
 ```sh
 npm run lint
+```
+
+## How we got here
+
+### Platform
+
+Project setup:
+
+```sh
+npm create vue@latest
+```
+
+Selected options:
+
+- Router
+- Pinia
+- Vitest
+- End-to-End Testing
+- ESLint
+- Prettier
+
+### VSCode
+
+Extensions:
+
+- [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug)
+- [Azure Static Web Apps](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestaticwebapps)
+- [ESLint]()
+- [Playwright Tewst for VSCode]()
+- [Prettier]()
+- [Pug Beautify]()
+- [Vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite)
+- [Vitest]()
+- [Vue - Offical]()
+- [Vue Extension Box]()
+- [Vue Peek]()
+- []()
+- []()
+
+### Pug
+
+Setup and config:
+
+```sh
+npm install --save pug
 ```
