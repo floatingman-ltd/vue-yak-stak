@@ -103,3 +103,24 @@ Setup and config:
 ```sh
 npm install --save pug
 ```
+
+Add the following to the `eslint.config.json`:
+
+```json
+{
+  "extends": ["plugin:vue/vue3-recommended", "plugin:vue-pug/vue3-recommended"]
+}
+```
+
+Finally, we have a local and updated build of the `eslint-plugin-vue-pug` which we:
+
+```sh
+# go to the plugin project
+cd ~/src/eslint-plugin-vue-pug
+# create global link
+npm link
+# go tho this project
+cd ~/src/vue-yak-stak
+# import the link
+npm link eslint-plugin-vue-pug
+```
