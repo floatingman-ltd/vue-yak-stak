@@ -2,7 +2,7 @@
   .dropdown
     button.drop-trigger profile
     .dropdown-content
-      a(href="/Login") login
+      RouterLink(to="/Login") login
       a(href="#") new
       a(href="#") profile
       a(href="#") logout of this site
