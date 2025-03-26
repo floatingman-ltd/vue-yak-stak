@@ -128,3 +128,19 @@ npm link eslint-plugin-vue-pug
 ## What's next?
 
 ### Configure and run the workflows
+
+- [x] Configure and run the workflows
+- [ ] Add routes
+- [ ] Authentication
+- [ ] Authorization
+  - [ ] Roles
+    - anonymous
+    - authenticated (guest)
+    - administrator
+    - premium
+
+### More Tools
+
+#### Axios
+
+#### Consider alternate markdown libraries

@@ -10,7 +10,7 @@ defineProps({
 <template lang="pug">
   .greetings
     h1.green {{ msg }}
-    h3 You&quote;ve successfully created a project with
+    h3 You&#39;ve successfully created a project with
       a(href="https://vite.dev/" target="_blank" rel="noopener") Vite
       | +
       a(href="https://vuejs.org/" target="_blank" rel="noopener") Vue 3

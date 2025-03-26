@@ -1,0 +1,21 @@
+* {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+html {
+  height: 100%;
+}
+
+/* main {
+  margin: auto;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+img {
+  width: 38px;
+  height: 38px;
+}
